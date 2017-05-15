@@ -3,9 +3,9 @@ Summary of this program :
 
 2. Max-heap with stacks.
 
-options : heap insert, heap delete, stack pop, stack push, print heap
+   options : heap insert, heap delete, stack pop, stack push, print heap
 
 3. BST.
 
-options : insert, search, delete, preorder, inorder, postorder
+   options : insert, search, delete, preorder, inorder, postorder
  
