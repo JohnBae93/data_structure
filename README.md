@@ -1,4 +1,4 @@
-Summary of this program :
+**Summary of this program :
          1. Read user input, service 2 option
          2. Max-heap with stacks
             options : heap insert, heap delete, stack pop, stack push, print heap
